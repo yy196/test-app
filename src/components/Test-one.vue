@@ -1,8 +1,9 @@
 <template>
   <div>
-    <span>0000000</span>
-    <span>66666</span>
+    <span>111111</span>
+    <span>222222</span>
     <span>9999999</span>
+    <span>888888</span>
   </div>
 </template>
 
