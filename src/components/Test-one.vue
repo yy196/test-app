@@ -11,8 +11,8 @@
     <span>*****</span>
     <span>*****</span>
     <span>zzzzzz</span>
-    
 
+  </div>
 </template>
 
 <script>
