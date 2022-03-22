@@ -1,9 +1,7 @@
 <template>
   <div>
-    <span>111111</span>
-    <span>4</span>
-    <span>7</span>
     <span>6</span>
+    <span>0</span>
 </template>
 
 <script>
