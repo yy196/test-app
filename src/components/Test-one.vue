@@ -8,6 +8,8 @@
     <span>8</span>
     <span>+++</span>
     <span>+++</span>
+    <span>*****</span>
+    <span>*****</span>
     
 
 </template>
