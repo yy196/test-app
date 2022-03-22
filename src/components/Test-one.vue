@@ -8,10 +8,10 @@
     <span>0</span>
     <span>0</span>
     <span>0</span>
-    <span>9999</span>
-    <span>9999</span>
-    <span>9999</span>
-    <span>9999</span>
+    <span>6666</span>
+    <span>6666</span>
+    <span>6666</span>
+    <span>6666</span>
     
 
   </div>
