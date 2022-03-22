@@ -1,7 +1,5 @@
 <template>
   <div>
-    1111111
-    <span>22222</span>
     <span>33333</span>
   </div>
 </template>
